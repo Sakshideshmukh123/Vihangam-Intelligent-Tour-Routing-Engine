@@ -42,7 +42,7 @@ Vihangam-Project/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/sakshideshmukh123/Vihangam-Project.git
+git clone https://github.com/Sakshideshmukh123/Vihangam-Intelligent-Tour-Routing-Engine.git
 
 cd Vihangam-Project
 
